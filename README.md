@@ -6,8 +6,8 @@ This repository contains my resume in various formats.
 
 ## Contents
 
-*   **`resume.pdf`**: A PDF version of my resume, optimized for printing and digital viewing.  (Recommended format)
-*   **`resume.md`**: A Markdown version of my resume for viewing and rendering in Markdown-compatible environments. This file is generated using AI via a self hosted GitHub Action runner. Since it's AI generated, it may not be 100% accurate so for the most accurate content, checkout the pdf.
+*   **`latest.pdf`**: A PDF version of my resume, optimized for printing and digital viewing.  (Recommended format)
+*   **`latest.md`**: A Markdown version of my resume for viewing and rendering in Markdown-compatible environments. This file is generated using AI via a self hosted GitHub Action runner. Since it's AI generated, it may not be 100% accurate so for the most accurate content, checkout the pdf.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ This repository allows easy access to my resume for potential employers, recruit
 ## Usage
 
 *   **Download:**  Simply download the desired file from this repository.
-*   **View Online:** You can view the `resume.md` file directly on GitHub.
+*   **View Online:** You can view the `latest.md` file directly on GitHub.
 *   **Share:** Feel free to share the PDF version with others.
 
 ## Contact
