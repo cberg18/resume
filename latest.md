@@ -1,20 +1,19 @@
-**Languages**
+### **Languages**
 
 **English Native Speaker**
 
-| Skills |  |  |  |  |
-|--------|--|--|--|--|
-|--------|--|--|--|--|
+#### **Skills**
 
-| Powershell   | Bash    |
-|--------------|---------|
-| Python       | Ansible |
-| Gitlab CI/CD | Git     |
-| Grafana      | Docker  |
-| Linux        | Windows |
-| Portainer    |         |
+| Tools        | Description |
+|--------------|-------------|
+| Powershell   | Bash        |
+| Python       | Ansible     |
+| Gitlab CI/CD | Git         |
+| Grafana      | Docker      |
+| Linux        | Windows     |
+| Portainer    |             |
 
-## **Key Acheivements**
+### **Key Acheivements**
 
 #### **Enhanced Security Posture**
 
@@ -48,7 +47,7 @@
 
 # **Cory Berg**
 
-## **Denver, Co [\(408\)903-3317](tel:(408)903-3317) [cberg18@gmail.com](mailto:cberg18@gmail.com)**
+### **Denver, Co [\(408\)903-3317](tel:(408)903-3317) [cberg18@gmail.com](mailto:cberg18@gmail.com)**
 
 # **Summary**
 
@@ -100,6 +99,6 @@
 | De Anza Community College                                     | 2012 - 2014              |
 | Projects                                                      |                          |
 
-## **Homelab**
+# **Homelab**
 
 **Home media, files server and tech playground. Serves as a place to learn, test and experiment with new technology, both for personal growth and validation before bringing new tools to the work environment.**
