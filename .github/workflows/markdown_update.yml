@@ -3,9 +3,9 @@ name: Generate new markdown on pdf update
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [main]
     paths:
-      - 'latest.pdf'
+      - "latest.pdf"
 
 jobs:
   run_script:
@@ -18,21 +18,25 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Create and activate virtual environment
         run: |
           python -m venv .venv
           source .venv/bin/activate
 
+      - name: Install uv
+        run: pip uv
+
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: uv pip install -r requirements.txt
 
       - name: Run your script
         run: marker_single ./latest.pdf --output_format=markdown --output_dir=. --use_llm --ollama_base_url=https://ollama.byteshiftd.dev --ollama_model=gemma3:12b --llm_service=marker.services.ollama.OllamaService
 
       - name: Upload results
         run: |
+          cp latest/latest.md .
           git add latest.md
           git commit -m "Automated commit: Update contents of latest.md"
           git push origin HEAD
