@@ -4,14 +4,9 @@
 
 #### **Skills**
 
-| Tools        | Description |
-|--------------|-------------|
-| Powershell   | Bash        |
-| Python       | Ansible     |
-| Gitlab CI/CD | Git         |
-| Grafana      | Docker      |
-| Linux        | Windows     |
-| Portainer    |             |
+| Powershell | Bash | Python | Ansible | Gitlab CI/CD | Git | Grafana | Docker | Linux | Windows | Portainer |
+|------------|------|--------|---------|--------------|-----|---------|--------|-------|---------|-----------|
+| Powershell | Bash | Python | Ansible | Gitlab CI/CD | Git | Grafana | Docker |       |         |           |
 
 ### **Key Acheivements**
 
@@ -94,10 +89,10 @@
 
 # **Education**
 
-| Colorado State University<br>Physics<br>https://colostate.edu | 2014 - 2017<br>Bachelors |
-|---------------------------------------------------------------|--------------------------|
-| De Anza Community College                                     | 2012 - 2014              |
-| Projects                                                      |                          |
+| Colorado State University<br>Physics<br>https://colostate.edu |             |
+|---------------------------------------------------------------|-------------|
+| De Anza Community College                                     | 2012 - 2014 |
+| Projects                                                      |             |
 
 # **Homelab**
 
