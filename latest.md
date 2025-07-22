@@ -1,16 +1,20 @@
-### **Languages**
+## **Languages**
 
 **English Native Speaker**
 
-#### **Skills**
+## **Skills**
 
-| Powershell | Bash | Python | Ansible | Gitlab CI/CD | Git | Grafana | Docker | Linux | Windows | Portainer |
-|------------|------|--------|---------|--------------|-----|---------|--------|-------|---------|-----------|
-| Powershell | Bash | Python | Ansible | Gitlab CI/CD | Git | Grafana | Docker |       |         |           |
+| Powershell   | Bash    |
+|--------------|---------|
+| Python       | Ansible |
+| Gitlab CI/CD | Git     |
+| Grafana      | Docker  |
+| Linux        | Windows |
+| Portainer    |         |
 
-### **Key Acheivements**
+# **Key Acheivements**
 
-#### **Enhanced Security Posture**
+### **Enhanced Security Posture**
 
 **Addition of Static and Dynamic security scanning techniques allows for a proactive approach to securing an environment that utilizes Private Health Information and Personally Identifiable Information.**
 
@@ -32,29 +36,28 @@
 
 **Coursera Convolutional Neural Networks in TensorFlow Coursera September 2020**
 
-### **Interests**
+# **Interests**
 
-| Self-Hosting | 3D Printing |
-|--------------|-------------|
-| Automation   | Photography |
-| Camping      | Hiking      |
-| Fishing      |             |
+| Activity     | Description | University of Pittsburgh Medical Center             | Systems Engineer                    |
+|--------------|-------------|-----------------------------------------------------|-------------------------------------|
+| Self-Hosting | 3D Printing | Image: University of Pittsburgh Medical Center logo | Image: Systems Engineer information |
+| Automation   | Photography |                                                     |                                     |
+| Camping      | Hiking      |                                                     |                                     |
+| Fishing      |             |                                                     |                                     |
 
 # **Cory Berg**
 
-### **Denver, Co [\(408\)903-3317](tel:(408)903-3317) [cberg18@gmail.com](mailto:cberg18@gmail.com)**
+#### **Denver, Co [\(408\)903-3317](tel:(408)903-3317) [cberg18@gmail.com](mailto:cberg18@gmail.com) <https://github.com/cberg18>**
 
-# **Summary**
+### **Summary**
 
-**Systems engineer with strong, hands on experience implementing new technologies and deploying automated workflows to modernize critical applications.**
+**Systems engineer with strong, hands on experience implementing new technologies and deploying automated workflows to modernize critical applications. Enjoys tackling technical debt.**
 
 # **Experience**
 
-| University of Pittsburgh Medical Center | April 2021 - Current |
-|-----------------------------------------|----------------------|
-| Systems Engineer                        | Remote               |
-|                                         |                      |
+**April 2021 - Current Remote**
 
+- **Act as SME and technical evangelist. Always evaluating new and industry standard technologies to see where they apply in the environment.**
 - **Automated build/deploy processes for dotnet applications using PowerShell**
 - **Automated build/deploy processes for python based data analytic tools applications using python and docker**
 - **Integrated Snyk security scanning at build time with internal project management tools for long-term tracking**
@@ -89,10 +92,10 @@
 
 # **Education**
 
-| Colorado State University<br>Physics<br>https://colostate.edu |             |
-|---------------------------------------------------------------|-------------|
-| De Anza Community College                                     | 2012 - 2014 |
-| Projects                                                      |             |
+| Colorado State University<br>Physics<br>https://colostate.edu | 2014 - 2017<br>Bachelors |
+|---------------------------------------------------------------|--------------------------|
+| De Anza Community College                                     | 2012 - 2014              |
+| Projects                                                      |                          |
 
 # **Homelab**
 
