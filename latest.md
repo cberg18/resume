@@ -12,7 +12,6 @@
 | Git          | Grafana        |
 | Docker       | Portainer      |
 | Terraform    | GCP            |
-|              |                |
 
 #### **Key Acheivements**
 
@@ -38,7 +37,7 @@
 
 **Coursera Convolutional Neural Networks in TensorFlow Coursera September 2020**
 
-## **Interests**
+### **Interests**
 
 | Self-Hosting | 3D Printing |
 |--------------|-------------|
@@ -50,15 +49,15 @@
 
 #### **Denver, Co [\(408\)903-3317](tel:(408)903-3317) [cberg18@gmail.com](mailto:cberg18@gmail.com) <https://github.com/cberg18>**
 
-## **Summary**
+#### **Summary**
 
 **Systems engineer with strong, hands on experience implementing new technologies and deploying automated workflows to modernize critical applications. Enjoys tackling technical debt.**
 
-## **Experience**
+### **Experience**
 
-| University of Pittsburgh Medical Center<br>Systems Engineer                                                                                  | April 2021 - Current | Remote |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------|
-| Act as SME and technical evangelist. Always evaluating new and industry standard technologies to<br>see where they apply in the environment. |                      |        |
+| University of Pittsburgh Medical Center<br>Systems Engineer                                                                                  | April 2021 - Current<br>Remote |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| Act as SME and technical evangelist. Always evaluating new and industry standard technologies to<br>see where they apply in the environment. |                                |
 
 - **Automated build/deploy processes for dotnet applications using PowerShell**
 - **Automated build/deploy processes for python based data analytic tools applications using python and docker**
@@ -99,6 +98,6 @@
 | De Anza Community College                                     | 2012 - 2014              |
 | Projects                                                      |                          |
 
-#### **Homelab**
+## **Homelab**
 
-**Home media, files server and tech playground. Serves as a place to learn, test and experiment with new technology, both for personal growth and validation before bringing new tools to the work environment.**
+**Home media, files server and tech playground. Serves as a place to learn, test and experiment with new technology, both for personal growth and validation before bringing new tools to the work environment. Managed with a mixture of terraform, ansible, GitHub Actions, python and Docker.**
