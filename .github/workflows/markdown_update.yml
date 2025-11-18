@@ -29,10 +29,14 @@ jobs:
         run: pip install uv
 
       - name: Install dependencies
-        run: uv pip install -r requirements.txt
+        run: |
+          source .venv/bin/activate
+          uv pip install -r requirements.txt
 
       - name: Run your script
-        run: marker_single ./latest.pdf --output_format=markdown --output_dir=. --use_llm --ollama_base_url=https://ollama.byteshiftd.dev --ollama_model=gemma3:12b --llm_service=marker.services.ollama.OllamaService
+        run: | 
+          source .venv/bin/activate
+          marker_single ./latest.pdf --output_format=markdown --output_dir=. --use_llm --ollama_base_url=https://ollama.byteshiftd.dev --ollama_model=gemma3:12b --llm_service=marker.services.ollama.OllamaService
 
       - name: Upload results
         run: |
