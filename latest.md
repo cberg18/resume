@@ -2,21 +2,22 @@
 
 **English Native Speaker**
 
-### **Skills**
+## **Skills**
 
-| Linux        | Windows        |
-|--------------|----------------|
-| Python       | Bash           |
-| Powershell   | Ansible        |
-| Gitlab CI/CD | Github Actions |
-| Git          | Grafana        |
-| Docker       | Portainer      |
-| Terraform    | GCP            |
-|              |                |
+| Operating System | Automation     |
+|------------------|----------------|
+| Linux            | Python         |
+| Windows          | Bash           |
+| Powershell       | Ansible        |
+| Gitlab CI/CD     | Github Actions |
+| Git              | Grafana        |
+| Docker           | Portainer      |
+| Terraform        | GCP            |
+|                  |                |
 
-### **Key Acheivements**
+## **Key Acheivements**
 
-### **Enhanced Security Posture**
+## **Enhanced Security Posture**
 
 **Addition of Static and Dynamic security scanning techniques allows for a proactive approach to securing an environment that utilizes Private Health Information and Personally Identifiable Information.**
 
@@ -24,50 +25,33 @@
 
 **Performance profiling across the application stack lead to 100% performance uplift.**
 
-# **Automated Application Deployments**
+## **Automated Application Deployments**
 
 **Implement automated build and deploy system, including automated secrets management and deployment. A significant upgrade from manual & error prone copy/paste type deployments.**
 
-# **Containerized Analytic Script Deployment**
+## **Containerized Analytic Script Deployment**
 
 **Utilize docker and CI/CD platform to containerize and deploy analytic scripts to ensure consistent, rapid deployment.**
 
-### **Certifications and Classes**
+## **Certifications and Classes**
 
-**Securing Windows and PowerShell Automation SANS Sept 2024**
+**Securing Windows and PowerShell Automation SANS**
 
-# Image to Markdown Conversion
-
-## Introduction
-
-This document outlines the process for converting images containing text into Markdown format. The goal is to accurately reproduce the text from the image, preserving its structure and formatting as closely as possible.
-
-## Formatting Guidelines
-
-- **Emphasis:** Use `*` for italics and `**` for bold text.
-- **Headers:** Use `#` for headers. The number of `#` symbols indicates the header level (e.g., `#` for the largest header, `######` for the smallest).
-- **Lists:** Use `-` or `1.` to create unordered and ordered lists, respectively.
-- **Links:** Use the following format to create links: `[link text](URL)`.
-- **Code Blocks:** Use triple backticks (
-```) to create code blocks. Use single backticks (`) for inline code.
-- **Math:**
-	- Inline math: `<math>math expression</math>`
-	- Display math: ` $$
+**Sept 2024**
 
 **Coursera Convolutional Neural Networks in TensorFlow Coursera September 2020**
 
-### **Interests**
+## **Interests**
 
-| Topic        | Activity    |
-|--------------|-------------|
 | Self-Hosting | 3D Printing |
+|--------------|-------------|
 | Automation   | Photography |
 | Camping      | Hiking      |
 |              |             |
 
-### **Fishing**
+## **Fishing**
 
-### **Education**
+## **Education**
 
 **Colorado State University Physics**
 
@@ -79,24 +63,23 @@ This document outlines the process for converting images containing text into Ma
 
 # **Projects**
 
-# **Homelab**
+## **Homelab**
 
 **Home media, files server and tech playground. Serves as a place to learn, test and experiment with new technology, both for personal growth and validation before bringing new tools to the work environment. Managed with a mixture of terraform, ansible, GitHub Actions, python and Docker.**
 
 # **Cory Berg**
 
-### **Denver, Co [\(408\)903-3317](tel:(408)903-3317) [cberg18@gmail.com](mailto:cberg18@gmail.com) <https://github.com/cberg18>**
+## **Denver, Co [cberg18@gmail.com](mailto:cberg18@gmail.com) <https://github.com/cberg18>**
 
-### **Summary**
+## **Summary**
 
 **Results-oriented infrastructure professional with expertise in automation, cloud technologies, and system administration. I consistently deliver scalable, secure, and reliable solutions by implementing Infrastructure as Code, streamlining CI/CD pipelines, and collaborating with development teams. Adept at integrating security best practices and supporting data-driven initiatives with tools like JupyterHub and HashiCorp Vault. Dedicated to staying current with emerging technologies and applying them to enhance infrastructure efficiency and innovation.**
 
-### **Experience**
+# **Experience**
 
 | University of Pittsburgh Medical Center | April 2021 - Current |
 |-----------------------------------------|----------------------|
 | Systems Engineer                        | Remote               |
-|                                         |                      |
 
 - **Subject Matter Expert & Technology Evaluation: Served as a Subject Matter Expert (SME) and technical evangelist, proactively researching and evaluating emerging technologies to identify opportunities for improvement and innovation within the infrastructure.**
 - **Infrastructure as Code Implementation: Led the implementation of Infrastructure as Code (IaC) practices to manage and automate private cloud resources, improving consistency and scalability.**
@@ -110,11 +93,11 @@ This document outlines the process for converting images containing text into Ma
 - **System Administration & Automation: Managed and maintained Linux and Windows systems, leveraging Ansible Playbooks (Linux) and PowerShell scripting (Windows) to automate administration tasks and streamline operations. Included physical host maintenance (racking, parts replacement) and virtual machine administration.**
 - **Infrastructure Optimization: Enhanced infrastructure design, implementation, and maintenance across internal services, resulting in increased network performance.**
 
-### **Van Horn Engineering**
+# **Van Horn Engineering**
 
 **Project Engineer**
 
-#### **June 2017 - April 2021 Estes Park, CO**
+**June 2017 - April 2021 Estes Park, CO**
 
 **June 2016 - July 2017 Fort Collins, Co**
 
